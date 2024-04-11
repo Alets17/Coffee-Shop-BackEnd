@@ -1,0 +1,138 @@
+{
+  "tea" : [
+    {
+      "id": "tea_01",
+      "name": "Green Tea",
+      "description": "Green tea is made from Camellia sinensis leaves and buds that have not undergone the same withering and oxidation process used to make oolong teas and black teas. It originated in China but has become popular worldwide due to its numerous health benefits.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/newccfoiloverwrap2021-2.png?v=1676412712",
+      "price": 15.5
+    },
+    {
+      "id": "tea_02",
+      "name": "Chamomile Tea",
+      "description": "Chamomile tea is made from the dried flowers of the chamomile plant. It has a mild, floral flavor and is often used for its calming effects, making it a popular choice for bedtime.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/newccfoiloverwrap2021_eecea340-c3b5-48da-8756-b545a46a5979.png?v=1642444328",
+      "price": 18.75
+    },
+    {
+      "id": "tea_03",
+      "name": "Earl Grey Tea",
+      "description": "Earl Grey tea is a black tea flavored with oil of bergamot, a citrus fruit. It is named after Charles Grey, 2nd Earl Grey, a British Prime Minister in the 1830s. Earl Grey tea is traditionally enjoyed with a slice of lemon or as a London Fog, mixed with steamed milk.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/newoegfoiloverwrap2021.png?v=1642532041",
+      "price": 11.85
+    },
+    {
+      "id": "tea_04",
+      "name": "Peppermint Tea",
+      "description": "Peppermint tea is an herbal tea made from the dried leaves of the peppermint plant. It has a refreshing, minty flavor and is often used to aid digestion and relieve nausea.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/newommfoiloverwrap2021.png?v=1666273314",
+      "price": 17.2
+    },
+    {
+      "id": "tea_05",
+      "name": "Winter Solstice",
+      "description": "All of your favorite warm and cozy flavors wrapped together: festive cinnamon, zesty orange, and warming allspice.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/MightyLeafWinterSolstice2.png?v=1640197525",
+      "price": 12.35
+    },
+    {
+      "id": "tea_06",
+      "name": "Green Dragon",
+      "description": "This tea envelopes the palate with a slightly sweet, very refreshing liquor. A classic hot pan-fired Chinese green tea, with a delicate chestnut-like flavor and a captivating aroma. The character of our Organic Green Dragon tea is simple and pure, capturing the essence of the ancient green tea cultivars long grown in Eastern China.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/newogdfoiloverwrap2022-2.png?v=1666662327",
+      "price": 14.65
+    },
+    {
+      "id": "tea_07",
+      "name": "Black Tea",
+      "description": "Black tea is a type of tea that is more oxidized than oolong, green, and white teas. It has a stronger flavor and higher caffeine content, making it a popular choice for breakfast teas like English Breakfast and Assam.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/newOBfoiloverwrap2021.png?v=1677029611",
+      "price": 13.45
+    },
+    {
+      "id": "tea_08",
+      "name": "White Tea",
+      "description": "White tea is made from the young leaves and buds of the Camellia sinensis plant. It undergoes minimal processing and has a delicate flavor profile with subtle floral notes.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/newwofoiloverwrap2022.png?v=1668270022",
+      "price": 19.1
+    },
+    {
+      "id": "tea_09",
+      "name": "Rooibos Tea",
+      "description": "Rooibos tea, also known as red tea or bush tea, is made from the leaves of the Aspalathus linearis plant, native to South Africa. It is caffeine-free and has a sweet, nutty flavor.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/newoanfoilwrapJan2022.png?v=1666662074",
+      "price": 16.8
+    },
+    {
+      "id": "tea_10",
+      "name": "Hibiscus Tea",
+      "description": "Hibiscus tea is made from the dried calyces of the hibiscus flower. It has a tart, cranberry-like flavor and is often enjoyed hot or cold, sweetened with honey or sugar.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/newwbhfoiloverwrap2021.png?v=1666741960",
+      "price": 10.25
+    },
+    {
+      "id": "tea_11",
+      "name": "Lemon Ginger Tea",
+      "description": "Lemon ginger tea is an herbal infusion made from dried ginger root and lemon zest. It has a spicy, citrusy flavor and is often used to soothe sore throats and upset stomachs.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/newotgfoiloverwrap2022.png?v=1676412654",
+      "price": 18.95
+    },
+    {
+      "id": "tea_12",
+      "name": "Jasmine Tea",
+      "description": "Jasmine tea is a type of scented tea, typically made by infusing green tea leaves with jasmine flowers. It has a delicate, floral aroma and is often served as an accompaniment to meals.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/newosjfoiloverwrap2022-2.png?v=1666340146",
+      "price": 16.3
+    },
+    {
+      "id": "tea_13",
+      "name": "Chai Tea",
+      "description": "Chai tea is a spiced tea blend originating from the Indian subcontinent. It typically includes black tea, cinnamon, cardamom, cloves, and ginger, and is often brewed with milk and sweetened with sugar or honey.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/newmcfoiloverwrap2021.png?v=1669592907",
+      "price": 10.55
+    },
+    {
+      "id": "tea_14",
+      "name": "Lavender Tea",
+      "description": "Lavender tea is an herbal infusion made from dried lavender flowers. It has a floral, slightly sweet flavor and is often enjoyed for its calming and relaxing effects.",
+      "image_url": "https://beanwise.ca/cdn/shop/files/numi-sweet-slumber_590x.png?v=1702651508",
+      "price": 19.45
+    },
+    {
+      "id": "tea_15",
+      "name": "Marrakesh Tea",
+      "description": "Packaged in a silken tea pouch, our gourmet teabag, this blend will whisk you away to cascading waterfalls deep in the mountains of Morocco. Host friends and family with this lively green tea brightened with mint.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/newmrmfoiloverwrap2022.png?v=1668270193",
+      "price": 11.7
+    },
+    {
+      "id": "tea_16",
+      "name": "Pu-erh Tea",
+      "description": "Pu-erh tea is a fermented tea from the Yunnan province of China. It has a rich, earthy flavor and is often aged to develop complex and mellow notes over time.",
+      "image_url": "https://beanwise.ca/cdn/shop/products/numi_emperors_puerh_590x.png?v=1641925649",
+      "price": 12.95
+    },
+    {
+      "id": "tea_17",
+      "name": "Hibiscus Tea",
+      "description": "A bouquet of flowers – sensual hibiscus, soothing lavender, calming chamomile and the afterglow of rose – enhance with a bright floral aroma.",
+      "image_url": "https://beanwise.ca/cdn/shop/files/numi-hibiscus_590x.png?v=1702659853",
+      "price": 15.8
+    },
+    {
+      "id": "tea_18",
+      "name": "Roated Hojicha",
+      "description": "Organic Hojicha is made of organic bancha green tea roasted to yield a rich, nutty brew. Within the green tea category, Organic Hojicha contains low levels of caffeine due to the roasting process.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/newoanfoilwrapJan2022-2_5bd170c2-e107-4201-b402-1aab20de1b8c.png?v=1668270409",
+      "price": 14.1
+    },
+    {
+      "id": "tea_19",
+      "name": "Vanilla Tea",
+      "description": "The deep, malty India and Ceylon black tea depths are enveloped in the sweet and sticky aromatic oils that only real, fragrant vanilla beans can bring, for a heady, transportive cup.",
+      "image_url": "https://www.mightyleaf.ca/cdn/shop/products/newvbfoiloverwrap2022.png?v=1668634774",
+      "price": 19.75
+    }
+  ]
+}
+
